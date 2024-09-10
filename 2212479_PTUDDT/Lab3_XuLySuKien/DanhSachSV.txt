@@ -1,0 +1,2 @@
+﻿21456* Nguyen Thanh* 1/5/2001*1 Dinh Tien Hoang * ctk32* * nam*Khoa học máy tính
+22456* Tran An* 1/5/2002*2 Dinh Tien Hoang * ctk33* * nam*Công nghệ phần mềm

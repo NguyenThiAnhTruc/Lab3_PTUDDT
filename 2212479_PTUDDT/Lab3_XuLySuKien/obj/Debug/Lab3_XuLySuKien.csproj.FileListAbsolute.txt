@@ -1,0 +1,10 @@
+D:\2212479\2212479_PTUDDT\Lab3_XuLySuKien\bin\Debug\Lab3_XuLySuKien.exe.config
+D:\2212479\2212479_PTUDDT\Lab3_XuLySuKien\bin\Debug\Lab3_XuLySuKien.exe
+D:\2212479\2212479_PTUDDT\Lab3_XuLySuKien\bin\Debug\Lab3_XuLySuKien.pdb
+D:\2212479\2212479_PTUDDT\Lab3_XuLySuKien\obj\Debug\Lab3_XuLySuKien.csproj.AssemblyReference.cache
+D:\2212479\2212479_PTUDDT\Lab3_XuLySuKien\obj\Debug\Lab3_XuLySuKien.Form1.resources
+D:\2212479\2212479_PTUDDT\Lab3_XuLySuKien\obj\Debug\Lab3_XuLySuKien.Properties.Resources.resources
+D:\2212479\2212479_PTUDDT\Lab3_XuLySuKien\obj\Debug\Lab3_XuLySuKien.csproj.GenerateResource.cache
+D:\2212479\2212479_PTUDDT\Lab3_XuLySuKien\obj\Debug\Lab3_XuLySuKien.csproj.CoreCompileInputs.cache
+D:\2212479\2212479_PTUDDT\Lab3_XuLySuKien\obj\Debug\Lab3_XuLySuKien.exe
+D:\2212479\2212479_PTUDDT\Lab3_XuLySuKien\obj\Debug\Lab3_XuLySuKien.pdb
